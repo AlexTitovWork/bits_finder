@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+/CMakeFiles/
+/DartConfiguration*
+/CTestTestfile*
+/detect_cuda_compute_capabilities*
+/detect_cuda_version*
+Makefile*
+CMakeCache*
+cmake_install*
+cuda_test
