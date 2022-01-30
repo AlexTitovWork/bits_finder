@@ -1,3 +1,3 @@
 # bits_finder
 Bit finder.
-Project for searching bit's template in big bit-file.
+Project for searching bit-template in big bit-file.
